@@ -1,8 +1,6 @@
 # Halo 
 ## Nama saya Diva Yurian Dwika
 
-![fotodiva.JPG](./fotodiva.JPG)
-
 ### Media Sosial
 
 Saya memiliki beberapa _media sosial_ yang biasa digunakan
